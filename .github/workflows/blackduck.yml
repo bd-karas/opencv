@@ -1,5 +1,6 @@
 ### https://documentation.blackduck.com/ja-JP/bundle/bridge/page/documentation/c_github-blackduck.html
 
+
 name: CI-BlackDuck-SCA
 on:
   push:
